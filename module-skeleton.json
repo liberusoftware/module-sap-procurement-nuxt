@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-procurement-nuxt",
+  "capabilityKey": "planned:sap:procurement",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-procurement-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/procurement.md",
+  "presentationPlan": "projects/sap/nuxt/procurement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
